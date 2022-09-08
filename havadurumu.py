@@ -1,5 +1,5 @@
-#döviz kurları kodunu inceleyiniz!
-from selenium import webdriver  #sayfayı açmak içindir
+#döviz kurları kodunu incele
+from selenium import webdriver  #sayfayı açmak için
 import time  #assayfa yüklenmesi sırasında bekleme yapmak için
 from bs4 import BeautifulSoup   #sayfa içerisinde ki sadece ilgili kısımları bulup almak için
 browser=webdriver.Chrome()  #chrome aracılığılya ilgili siteye bağlanılacağı belirtildi.
