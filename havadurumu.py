@@ -1,4 +1,4 @@
-#döviz kurları kodunu incele
+#döviz kurları kodunu incele deneme
 from selenium import webdriver  #sayfayı açmak için
 import time  #assayfa yüklenmesi sırasında bekleme yapmak için
 from bs4 import BeautifulSoup   #sayfa içerisinde ki sadece ilgili kısımları bulup almak için
